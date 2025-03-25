@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/google/gopacket/pcap"
+	"github.com/gopacket/gopacket/pcap"
 
 	"golang.org/x/net/bpf"
 )

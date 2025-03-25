@@ -5,4 +5,4 @@
 
 **Currently under development, API may change without prior notice**
 
-Go package with helper functions for [golang.org/x/net/bpf](https://godoc.org/golang.org/x/net/bpf) and BPF filter in [github.com/google/gopacket/pcap](https://godoc.org/github.com/google/gopacket).
+Go package with helper functions for [golang.org/x/net/bpf](https://godoc.org/golang.org/x/net/bpf) and BPF filter in [github.com/gopacket/gopacket/pcap](https://godoc.org/github.com/gopacket/gopacket).
